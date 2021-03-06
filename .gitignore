@@ -31,7 +31,6 @@ build
 
 # Webstorm metadata
 .idea
-.vscode
 
 # Mac files
 .DS_Store
